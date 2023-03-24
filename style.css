@@ -1,0 +1,68 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-family: monospace;
+}
+
+.btn {
+	background: green;
+	color: whitesmoke;
+	padding: 12px 12px;
+	border: none;
+	border-radius: 7px;
+	margin-top: 50px;
+	
+
+
+}
+
+.btns {
+	background: darkred;
+	color: whitesmoke;
+	padding: 12px 12px;
+	border: none;
+	border-radius: 7px;
+	margin-top: 50px;
+	
+
+
+}
+
+#sum-el {
+	margin-top: 50px;
+}
+
+#message-el h3 {
+	margin-top: 50px;
+
+}
+
+#cards-el {
+	margin-top: 50px;
+
+}
+
+.btn a {
+	text-decoration: none;
+	color: white;
+
+}
+
+.main {
+	background: hotpink;
+	height: 400px;
+	width: 300px;
+	margin-top: 100px;
+}
+
+.main .welcome {
+	padding-top: 30px;
+	color: white;
+	font-size: 20px;
+	font-weight: bolder;
+}
